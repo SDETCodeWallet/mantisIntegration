@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="sneakpeeq example" duration-ms="29" started-at="2013-08-02T22:45:18Z" finished-at="2013-08-02T22:45:18Z">
+    <groups>
+    </groups>
+    <test name="Test 1" duration-ms="5" started-at="2013-08-02T22:45:18Z" finished-at="2013-08-02T22:45:18Z">
+    </test> <!-- Test 1 -->
+    <test name="Test 2" duration-ms="1" started-at="2013-08-02T22:45:18Z" finished-at="2013-08-02T22:45:18Z">
+    </test> <!-- Test 2 -->
+  </suite> <!-- sneakpeeq example -->
+</testng-results>
